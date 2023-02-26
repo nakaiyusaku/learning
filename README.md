@@ -27,3 +27,5 @@
   - macで動かす時にデバッグ
 - powershell
   - お久しぶりです
+- docker
+  - そのうちnodeのサーバーをdockerで立てて遊ぶ
